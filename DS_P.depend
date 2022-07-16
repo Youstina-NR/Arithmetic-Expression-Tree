@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525450166 source:c:\users\youst\desktop\ds_p\main.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+	<algorithm>
+	<queue>
+	<math.h>
+
+1568120765 source:d:\sections\spring 2018\data structure\ds_p\main.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+	<algorithm>
+	<queue>
+	<math.h>
+
